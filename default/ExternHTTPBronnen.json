@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1746434192630,
+    "description" : "Retrieve from Eindhoven Data",
+    "identifier" : "ExternHTTPBronnen",
+    "lastModifiedTimestamp" : 1746434192630,
+    "name" : "ExternHTTPBronnen",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
